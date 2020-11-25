@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cas_tot_ville"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/totcas"
+            android:textSize="@dimen/item"
+            />
+        <TextView
+            android:id="@+id/nbr_cas_tot_ville"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cas_act"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/totactcas" />
+        <TextView
+            android:id="@+id/nbr_cas_act"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cas_mort"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/totmortcas" />
+        <TextView
+            android:id="@+id/nbr_cas_mort"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cas_gueris"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gueris" />
+        <TextView
+            android:id="@+id/nbr_cas_gueris"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </LinearLayout>
+
+
+</LinearLayout>

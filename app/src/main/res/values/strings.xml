@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckCovid</string>
+    <string name="rech">search</string>
+    <string name="news">news:</string>
+    <string name="totcas">all case:</string>
+    <string name="totactcas">active case:</string>
+    <string name="totmortcas">dead cases:</string>
+    <string name="gueris">cured cases:</string>
+</resources>
