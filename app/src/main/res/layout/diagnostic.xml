@@ -16,6 +16,12 @@
         android:orientation="horizontal">
 
         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="exple"
+            />
+
+        <TextView
             android:id="@+id/tot_cas"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
