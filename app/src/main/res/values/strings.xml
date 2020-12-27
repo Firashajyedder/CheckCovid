@@ -6,4 +6,6 @@
     <string name="totactcas">active case:</string>
     <string name="totmortcas">dead cases:</string>
     <string name="gueris">cured cases:</string>
+    <string name="login">Login</string>
+    <string name="pwd">Password</string>
 </resources>
