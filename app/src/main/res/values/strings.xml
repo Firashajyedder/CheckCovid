@@ -1,9 +1,30 @@
 <resources>
-    <string name="app_name">CheckCovid</string>
-    <string name="rech">search</string>
+    <string name="app_name" >CheckCovid</string>
+    <string name="ajouter">Ajouter un article</string>
+    <string name="ajoute_title">Ajouter un article</string>
+    <string name="rech">rechercher</string>
+    <string name="titre">Titre : </string>
+    <string name="description">Description :</string>
+    <string name="lien">Lien :</string>
+    <string name="ville">Ville :</string>
+    <string name="test">Les tests positives :</string>
+    <string name="deces">Les cas décés :</string>
+    <string name="valider">Valider</string>
+    <string name="guerir">Les cas guérirs :</string>
+    <string name="modifier">Modifier un article</string>
+    <string name="cas">Mise à jour des cas</string>
+    <string name="map">Mise à jour de map</string>
     <string name="news">news:</string>
     <string name="totcas">all case:</string>
     <string name="totactcas">active case:</string>
     <string name="totmortcas">dead cases:</string>
     <string name="gueris">cured cases:</string>
+    <string name="country__prompt">Choose a country</string>
+    <string-array name="country__arrays">
+        <item>Tunisie</item>
+        <item>Nabeul</item>
+        <item>Binzart</item>
+        <item>Beja</item>
+        <item>sousse</item>
+    </string-array>
 </resources>
