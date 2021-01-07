@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main1);
         view = this.getWindow().peekDecorView();
         view.setBackgroundResource(R.color.colorgris);
         Name = (EditText)findViewById(R.id.etName);
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Info = (TextView)findViewById(R.id.tvInfo);
         Login = (Button)findViewById(R.id.btnLogin);
 
-        Info.setText("No of attempts remaining: 5");
+
 
         Login.setOnClickListener(new View.OnClickListener() {
             @Override

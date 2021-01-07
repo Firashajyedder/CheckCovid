@@ -8,4 +8,8 @@
     <string name="gueris">cured cases:</string>
     <string name="login">Login</string>
     <string name="pwd">Password</string>
+    <string name="email">Eamil</string>
+    <string name="sujet">Sujet</string>
+    <string name="msg">Message</string>
+    <string name="send">Envoyer</string>
 </resources>

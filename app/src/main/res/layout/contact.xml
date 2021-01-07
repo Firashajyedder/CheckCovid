@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/email" />
+
+        <EditText
+            android:id="@+id/sujet"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="@string/sujet" />
+
+        <TextView
+            android:id="@+id/msg"
+            android:layout_width="match_parent"
+            android:layout_height="95sp"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:ems="10"
+
+            android:inputType="textPersonName"
+            android:text="@string/msg" />
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/send"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
