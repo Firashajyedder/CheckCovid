@@ -26,7 +26,9 @@ public class MainActivity extends AppCompatActivity {
         Name = (EditText)findViewById(R.id.etName);
         Password = (EditText)findViewById(R.id.etPassword);
         Info = (TextView)findViewById(R.id.tvInfo);
+
         Login = (Button)findViewById(R.id.btnLogin);
+
 
 
 
