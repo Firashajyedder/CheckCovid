@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@string/rech" />
+            android:hint="@string/rech" />
 
         <Button
             android:id="@+id/rech"
