@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743218588391",
+    "firebase_url": "https://checkcovid-ddb48-default-rtdb.firebaseio.com",
+    "project_id": "checkcovid-ddb48",
+    "storage_bucket": "checkcovid-ddb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743218588391:android:02672c03093228d0b31042",
+        "android_client_info": {
+          "package_name": "com.dsi31g3.checkcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743218588391-85dtc516vmpj8b99943frfo8v8gor8bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZ1Nb64aVT5hH26rMNepOwwFQeifK06c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743218588391-85dtc516vmpj8b99943frfo8v8gor8bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
